@@ -1,1 +1,2 @@
-
+This folder contains files for data and R scripts of my master thesis. 
+"EmotiondaraforR.xlsx" file has the data that I gathered through the eperiments. They are the scores of emotional skills for children btween 3-6 years old. The scores are from two different tests, AKT and PSRA (reg1 and reg2 file for scripts). They show the scores for emotion knoeldge and emotion recognition. I used mixed effect models to analyze my data. 
